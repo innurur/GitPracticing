@@ -25,6 +25,12 @@ but the other way
         merge - in this case we can transfer changes in ont place, but it is not safe
         because we can do some changes too
 
+        a little bit confused, but
+        will practice it tomorrow as well
+        and will make a meeting with the group
+        and practice one more time
+
+
 
          */
     }
