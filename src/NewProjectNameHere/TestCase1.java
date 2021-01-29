@@ -11,6 +11,10 @@ public class TestCase1 {
     and create some java classes
     and the send it or Share Project with GitHub
     in this case we can share the work with the team
+
+    still working in branch3
+    and need to understand the logic
+    and try to make merge conflict after that
       */
     }
 }
