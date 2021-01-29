@@ -17,6 +17,14 @@ but the other way
         it gonna take some time
         but better to do it today
 
+        so we have 4 types of solving problem with the merge conflict
+        they are:
+        abort merge
+        accept yours - in this case all others code will be lost
+        accept their - in this case my code will be lost
+        merge - in this case we can transfer changes in ont place, but it is not safe
+        because we can do some changes too
+
 
          */
     }
