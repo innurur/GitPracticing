@@ -15,6 +15,10 @@ public class TestCase1 {
     still working in branch3
     and need to understand the logic
     and try to make merge conflict after that
+
+    interesting can I still work under the branch4 and make some changes
+    here as well
+    will see what will happen
       */
     }
 }
