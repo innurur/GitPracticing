@@ -13,6 +13,10 @@ public class TestCase2 {
     checking out without merging
     but using the VCS merge
 
+        then we should work and see the result
+        of merge conflict
+        after that we should just practice with the group
+
 
          */
     }
