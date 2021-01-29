@@ -19,6 +19,11 @@ public class TestCase1 {
     interesting can I still work under the branch4 and make some changes
     here as well
     will see what will happen
+
+    no changes in a new branch is not allowed
+    adding changes in branch that previously
+    took care of this work will cause the conflict
+    mostly I used abort merge option
       */
     }
 }
